@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio website! This responsive and modern s
 
 ## 🚀 Live Preview
 
-> 🌍 [View Live Portfolio](#) – _Replace this with your deployed link (e.g., GitHub Pages, Vercel, Netlify)_
+> 🌍 [https://vishwakarmasuraj333.github.io/Simple-portfolio/](#) – _Replace this with your deployed link (e.g., GitHub Pages, Vercel, Netlify)_
 
 ---
 
